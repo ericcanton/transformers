@@ -167,3 +167,8 @@ tags
 
 # ruff
 .ruff_cache
+
+# personal use
+!notebooks/mine/*.ipynb
+notebooks/mine
+
